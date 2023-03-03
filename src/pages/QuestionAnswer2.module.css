@@ -1,0 +1,398 @@
+.riskProfilingQuestionnaire {
+  position: absolute;
+  top: 315px;
+  left: 311px;
+  color: var(--color-black);
+}
+.question2 {
+  position: relative;
+}
+.pleaseChooseThe {
+  margin-block-start: 0;
+  margin-block-end: 6px;
+}
+.haveInvestedSo {
+  margin: 0;
+}
+.pleaseChooseTheContainer {
+  position: relative;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+.question2Parent {
+  position: absolute;
+  top: 460px;
+  left: 311px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-2xl);
+  font-size: var(--font-size-2xl);
+}
+.directstockEquities {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-gilroy);
+  /* color: var(--color-white); */
+  text-align: left;
+  /* border: 1px; */
+}
+.directstockEquitiesWrapper {
+  cursor: pointer;
+  border: 1px solid;
+  padding: var(--padding-2xs);
+  /* background-color: var(--color-darkslateblue-200); */
+  background-color: white;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 248px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.stockOptionsesoprsu {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-gilroy);
+  color: var(--color-black);
+  text-align: left;
+}
+.bondsdebenturesWrapper,
+.stockOptionsesoprsuWrapper {
+  cursor: pointer;
+  border: 1px solid var(--color-darkgray-200);
+  padding: var(--padding-2xs);
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 282px;
+  box-sizing: border-box;
+  width: 294px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.bondsdebenturesWrapper {
+  left: 610px;
+  width: 241px;
+}
+.frameParent {
+  position: absolute;
+  top: 649px;
+  left: 311px;
+  width: 851px;
+  height: 47px;
+}
+.goldWrapper {
+  cursor: pointer;
+  border: 1px solid var(--color-darkgray-200);
+  padding: var(--padding-2xs);
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-sizing: border-box;
+  width: 115px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.mutualFundsEquities {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-gilroy);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 378px;
+  flex-shrink: 0;
+}
+.mutualFundsDebtWrapper,
+.mutualFundsEquitiesAndHybrWrapper,
+.realEstateWrapper {
+  cursor: pointer;
+  border: 1px solid var(--color-darkgray-200);
+  padding: var(--padding-2xs);
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 338px;
+  box-sizing: border-box;
+  width: 396px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.mutualFundsDebtWrapper,
+.realEstateWrapper {
+  left: 752px;
+  width: 224px;
+}
+.realEstateWrapper {
+  left: 149px;
+  width: 155px;
+}
+.frameGroup {
+  position: absolute;
+  top: 733px;
+  left: 311px;
+  width: 976px;
+  height: 47px;
+}
+.cryptoCurrenciesdigitalAsseWrapper,
+.smallSavingSchemesPpfNscWrapper {
+  cursor: pointer;
+  border: 1px solid var(--color-darkgray-200);
+  padding: var(--padding-2xs);
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-sizing: border-box;
+  width: 468px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.cryptoCurrenciesdigitalAsseWrapper {
+  left: 502px;
+  width: 379px;
+}
+.frameContainer {
+  position: absolute;
+  top: 983px;
+  left: 311px;
+  width: 881px;
+  height: 47px;
+}
+.frameWrapper,
+.pmsaifWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 123px;
+}
+.pmsaifWrapper {
+  cursor: pointer;
+  border: 1px solid var(--color-darkgray-200);
+  padding: var(--padding-2xs);
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frameWrapper {
+  height: 47px;
+}
+.derivativesWrapper,
+.groupDiv {
+  position: absolute;
+  top: 0;
+  width: 152px;
+}
+.derivativesWrapper {
+  cursor: pointer;
+  border: 1px solid var(--color-darkgray-200);
+  padding: var(--padding-2xs);
+  background-color: transparent;
+  left: 0;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.groupDiv {
+  left: 704px;
+  height: 47px;
+}
+.ventureCapitalangelInvestinWrapper {
+  cursor: pointer;
+  border: 1px solid var(--color-darkgray-200);
+  padding: var(--padding-2xs);
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 157px;
+  box-sizing: border-box;
+  width: 513px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.groupParent {
+  position: absolute;
+  top: 817px;
+  left: 311px;
+  width: 856px;
+  height: 47px;
+}
+.currenciesWrapper,
+.reitsInvitsWrapper {
+  cursor: pointer;
+  border: 1px solid var(--color-darkgray-200);
+  padding: var(--padding-2xs);
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-sizing: border-box;
+  width: 143px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.reitsInvitsWrapper {
+  width: 162px;
+}
+.frameWrapper1 {
+  position: absolute;
+  top: 0;
+  left: 507px;
+  width: 162px;
+  height: 47px;
+}
+.fixedDepositsWrapper {
+  cursor: pointer;
+  border: 1px solid var(--color-darkgray-200);
+  padding: var(--padding-2xs);
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-sizing: border-box;
+  width: 183px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frameWrapper2 {
+  position: absolute;
+  top: 0;
+  left: 703px;
+  width: 183px;
+  height: 47px;
+}
+.internationalInvestmentsWrapper {
+  cursor: pointer;
+  border: 1px solid var(--color-darkgray-200);
+  padding: var(--padding-2xs);
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 177px;
+  box-sizing: border-box;
+  width: 296px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.frameParent1 {
+  position: absolute;
+  top: 900px;
+  left: 311px;
+  width: 886px;
+  height: 47px;
+}
+.submitWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-2xs) var(--padding-2xl);
+  background-color: var(--color-darkslateblue-200);
+  position: absolute;
+  top: 1092px;
+  left: 1173px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.span {
+  color: var(--color-darkgray-200);
+}
+.b {
+  position: absolute;
+  top: 1028px;
+  left: 1216px;
+  font-size: var(--font-size-sm);
+  display: none;
+}
+.back1Icon {
+  top: 0;
+  left: 0;
+  width: 20px;
+  object-fit: cover;
+}
+.back,
+.back1Icon,
+.back2Icon {
+  position: absolute;
+  height: 20px;
+}
+.back2Icon {
+  top: 0;
+  left: 7px;
+  width: 20px;
+  object-fit: cover;
+}
+.back {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1106px;
+  left: 311px;
+  width: 27px;
+}
+.welcomeJohnDoe {
+  top: 188px;
+  left: 311px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-darkslateblue-100);
+}
+.asset22,
+.dec22,
+.welcomeJohnDoe {
+  position: absolute;
+}
+.dec22 {
+  top: 241px;
+  left: 311px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkgray-200);
+}
+.asset22 {
+  top: 49px;
+  left: 94px;
+  width: 79px;
+  height: 115px;
+  object-fit: cover;
+}
+.questionAnswer2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1377px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslateblue-200);
+  font-family: var(--font-gilroy);
+}

@@ -1,0 +1,440 @@
+.asset22 {
+  position: absolute;
+  top: 49px;
+  left: 94px;
+  width: 79px;
+  height: 115px;
+  object-fit: cover;
+}
+.comparisionCurrentDropdown3Child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-cadetblue);
+  position: absolute;
+  top: 306px;
+  left: 0;
+  width: 266px;
+  height: 45px;
+}
+.investment,
+.overview {
+  position: absolute;
+  top: 204px;
+  left: 82px;
+}
+.investment {
+  top: 0;
+  left: 0;
+}
+.investmentWrapper {
+  position: absolute;
+  top: 261px;
+  left: 72px;
+  width: 124px;
+  height: 29px;
+}
+.gubairGenie {
+  position: absolute;
+  top: 315px;
+  left: 59px;
+  color: var(--color-white);
+}
+.notification,
+.reports {
+  position: absolute;
+  top: 375px;
+  left: 90px;
+}
+.notification {
+  top: 432px;
+  left: 69px;
+}
+.comparisionCurrentDropdown3Item {
+  position: absolute;
+  top: 2px;
+  left: 266px;
+  width: 2px;
+  height: 1159px;
+}
+.comparisionCurrentDropdown3Inner {
+  position: absolute;
+  top: 427px;
+  left: 1420px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gainsboro-100);
+  width: 6px;
+  height: 585px;
+}
+.level1Wrapper {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-2xs);
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cagr1 {
+  position: relative;
+  font-size: var(--font-size-5xs);
+  font-family: var(--font-gilroy);
+  color: var(--color-black);
+  text-align: left;
+}
+.cagr,
+.cagrParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cagr {
+  cursor: pointer;
+  border: 1px solid var(--color-cadetblue);
+  padding: var(--padding-2xs);
+  background-color: transparent;
+  border-radius: var(--br-sm);
+  flex-direction: row;
+}
+.cagrParent {
+  flex-direction: column;
+  gap: var(--gap-sm);
+}
+.groupChild {
+  height: 67.9%;
+  width: 55.09%;
+  top: 18.6%;
+  right: 13.5%;
+  bottom: 13.5%;
+  left: 31.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div,
+.groupChild,
+.groupItem {
+  position: absolute;
+}
+.groupItem {
+  top: 35.85px;
+  left: 107.81px;
+  width: 71.46px;
+  height: 128.67px;
+}
+.div {
+  top: 39.46%;
+  left: 27.6%;
+  background: linear-gradient(180deg, #bb103e, #3a488c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.ellipseParent {
+  position: relative;
+  width: 218.48px;
+  height: 199.16px;
+  flex-shrink: 0;
+}
+.frameContainer,
+.groupWrapper {
+  display: flex;
+  align-items: center;
+}
+.groupWrapper {
+  width: 209px;
+  height: 192px;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: -10px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+}
+.frameContainer {
+  flex-direction: row;
+  justify-content: flex-start;
+  font-size: var(--font-size-5xs);
+}
+.frameGroup {
+  border-radius: var(--br-lg);
+  border: 2px solid var(--color-cadetblue);
+  box-sizing: border-box;
+  width: 312px;
+  height: 257px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-2xs) var(--padding-sm);
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.ellipseIcon {
+  position: absolute;
+  top: 35.86px;
+  left: 107.81px;
+  width: 71.46px;
+  height: 128.67px;
+}
+.frameParent,
+.gubairGenieWrapper {
+  position: absolute;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-black);
+}
+.frameParent {
+  top: 566px;
+  left: 1033px;
+  flex-direction: column;
+  gap: var(--gap-md);
+}
+.gubairGenieWrapper {
+  top: 346px;
+  left: 301px;
+  flex-direction: row;
+  padding: var(--padding-2xs);
+  font-size: var(--font-size-lg);
+}
+.current,
+.frameChild {
+  position: relative;
+}
+.frameChild {
+  width: 101.68px;
+  height: 100.18px;
+  flex-shrink: 0;
+}
+.frameParent2,
+.frameParent3,
+.frameParent4,
+.groupFrame {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.groupFrame {
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  align-items: flex-start;
+}
+.frameParent2,
+.frameParent3,
+.frameParent4 {
+  align-items: center;
+  gap: var(--gap-3xs);
+}
+.frameParent2,
+.frameParent4 {
+  color: var(--color-rosybrown);
+}
+.frameParent2 {
+  position: absolute;
+  top: 391px;
+  left: 598px;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-3xl);
+  font-size: var(--font-size-3xs);
+  color: var(--color-cadetblue);
+}
+.b,
+.b1,
+.buy,
+.cr,
+.cr1 {
+  position: absolute;
+  top: 0;
+  left: 273px;
+}
+.b,
+.b1,
+.buy,
+.cr1 {
+  left: 449px;
+}
+.b,
+.b1,
+.buy {
+  left: 358px;
+}
+.b1,
+.buy {
+  left: 534px;
+}
+.buy {
+  left: 612px;
+  color: var(--color-rosybrown);
+}
+.frameInner,
+.mutualFundEquityParent {
+  position: relative;
+  width: 666px;
+  height: 28px;
+  flex-shrink: 0;
+}
+.frameInner {
+  width: 16.06px;
+  height: 9.09px;
+}
+.chooseAnyAdditional2FundsParent {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) 0 0;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-2xs);
+}
+.buy1 {
+  position: absolute;
+  top: 0;
+  left: 613px;
+  color: var(--color-rosybrown);
+}
+.viewAllThe {
+  position: relative;
+  font-size: var(--font-size-2xs);
+  font-family: var(--font-gilroy);
+  color: var(--color-darkslateblue-200);
+  text-align: left;
+}
+.viewAllTheFundParent {
+  cursor: pointer;
+  border: 0;
+  padding: 0 var(--padding-2xs) var(--padding-2xs) 0;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-2xs);
+}
+.groupIcon {
+  position: relative;
+  width: 27px;
+  height: 16.05px;
+  flex-shrink: 0;
+}
+.compareTheFundsParent {
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-2xs);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.frameParent6 {
+  height: 32px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 282px;
+  font-size: var(--font-size-2xs);
+  color: var(--color-darkslateblue-200);
+}
+.comparisionCurrentDropdown3Inner1,
+.frameParent5 {
+  position: absolute;
+  left: 308px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-white);
+  box-shadow: 2px 4px 11px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-md) var(--padding-lg);
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--color-black);
+}
+.frameParent5 {
+  top: 566px;
+  height: 355px;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+}
+.comparisionCurrentDropdown3Inner1 {
+  top: 944px;
+}
+.searchBar {
+  border-radius: var(--br-md);
+  border: 1px solid var(--color-darkgray-200);
+  box-sizing: border-box;
+  width: 246px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-2xs) var(--padding-2xs) var(--padding-2xs)
+    var(--padding-xs);
+  align-items: center;
+  justify-content: flex-start;
+}
+.vectorIcon1 {
+  position: relative;
+  width: 28px;
+  height: 35px;
+  flex-shrink: 0;
+}
+.searchBell {
+  position: absolute;
+  top: 79px;
+  right: 95px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-3xs);
+  color: var(--color-darkgray-200);
+  font-family: var(--font-inter);
+}
+.welcomeJohnDoe1 {
+  position: relative;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslateblue-100);
+}
+.welcomeJohnDoe {
+  position: absolute;
+  top: 188px;
+  left: 311px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-md);
+  color: var(--color-darkgray-200);
+}
+.riskProfile1,
+.totalInvestment232 {
+  border: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-base);
+  background-color: transparent;
+  position: relative;
+  color: var(--color-black);
+  text-align: right;
+}
+.totalInvestment232 {
+  color: var(--color-darkgray-200);
+}
+.riskProfile {
+  position: absolute;
+  top: 188px;
+  right: 95px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.comparisionCurrentDropdown3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1161px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  font-family: var(--font-gilroy);
+}

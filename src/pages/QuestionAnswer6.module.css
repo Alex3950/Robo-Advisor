@@ -1,0 +1,172 @@
+.riskProfilingQuestionnaire {
+  position: absolute;
+  top: 315px;
+  left: 311px;
+  color: var(--color-black);
+}
+.iAmInvesting,
+.question6 {
+  position: relative;
+}
+.iAmInvesting {
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+.question6Parent {
+  position: absolute;
+  top: 460px;
+  left: 311px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-2xl);
+  font-size: var(--font-size-2xl);
+}
+.wealthPreservation {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-gilroy);
+  color: black;
+  text-align: left;
+}
+.wealthPreservationWrapper {
+  cursor: pointer;
+  border: 1 solid;
+  padding: var(--padding-2xs);
+  background-color: white;
+  position: absolute;
+  top: 649px;
+  left: 311px;
+  width: 234px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.wealthTransfer {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-gilroy);
+  color: var(--color-black);
+  text-align: left;
+}
+.highAppreciationWrapper,
+.moderateAppreciationWrapper,
+.wealthTransferWrapper {
+  cursor: pointer;
+  border: 1px solid var(--color-darkgray-200);
+  padding: var(--padding-2xs);
+  background-color: transparent;
+  position: absolute;
+  top: 733px;
+  left: 311px;
+  box-sizing: border-box;
+  width: 188px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.highAppreciationWrapper,
+.moderateAppreciationWrapper {
+  top: 649px;
+  left: 576px;
+  width: 267px;
+}
+.highAppreciationWrapper {
+  left: 874px;
+  width: 209px;
+}
+.span {
+  color: var(--color-darkgray-200);
+}
+.b {
+  position: absolute;
+  top: 1028px;
+  left: 1216px;
+  font-size: var(--font-size-sm);
+  display: none;
+}
+.back1Icon,
+.back2Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.back2Icon {
+  left: 7px;
+}
+.back,
+.submitWrapper {
+  cursor: pointer;
+  border: 0;
+}
+.back {
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  width: 27px;
+  height: 20px;
+  flex-shrink: 0;
+}
+.submitWrapper {
+  padding: var(--padding-2xs) var(--padding-2xl);
+  background-color: var(--color-darkslateblue-200);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.backParent,
+.welcomeJohnDoe {
+  left: 311px;
+  display: flex;
+  justify-content: flex-start;
+}
+.backParent {
+  position: absolute;
+  top: 843px;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-4xl);
+}
+.welcomeJohnDoe {
+  top: 188px;
+  flex-direction: column;
+  align-items: flex-start;
+  color: var(--color-darkslateblue-100);
+}
+.asset22,
+.dec22,
+.welcomeJohnDoe {
+  position: absolute;
+}
+.dec22 {
+  top: 241px;
+  left: 311px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkgray-200);
+}
+.asset22 {
+  top: 49px;
+  left: 94px;
+  width: 79px;
+  height: 115px;
+  object-fit: cover;
+}
+.questionAnswer6 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 975px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslateblue-200);
+  font-family: var(--font-gilroy);
+}

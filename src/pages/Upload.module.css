@@ -1,0 +1,19 @@
+.uploadImage {
+    display: flex;
+    padding: var(--padding-2xs);
+  }
+  .uploadImage {
+    /* position: absolute; */
+    flex-direction: column;
+  }
+  .uploadImage {
+  
+  border-radius: var(--br-lg);
+  background-color: var(--color-white);
+  border: 1px dashed var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 210px;
+  height: 210px;
+  align-items: center;
+  justify-content: center;
+}
